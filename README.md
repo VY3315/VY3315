@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yagnesh Vyas</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw2soOVmJzuI16sQuOveALEN&ust=1675449758702000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCN3fC-9_wCFQAAAAAdAAAAABAr">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vy3315&label=Profile%20views&color=0e75b6&style=flat" alt="vy3315" /> </p>
 
