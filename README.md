@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vy3315&label=Profile%20views&color=0e75b6&style=flat" alt="vy3315" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Devloper cource**
+- 🌱 I’m currently learning **Fullstack Devloper**
 
 - 📫 How to reach me **yagneshvyas0@gmail.com**
 
