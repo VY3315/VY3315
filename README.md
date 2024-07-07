@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yagnesh Vyas</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate Asp.Net MVC developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -11,9 +11,9 @@
 
 <!-- - ⚡ Fun fact **I am funny😉** -->
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
   </a>   -->
   
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
 
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
 
@@ -63,6 +63,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vy3315&show_icons=true&locale=en&layout=compact" alt="vy3315" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vy3315&show_icons=true&locale=en" alt="vy3315" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vy3315&show_icons=true&locale=en" alt="vy3315" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vy3315&" alt="vy3315" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vy3315&" alt="vy3315" /></p> -->
